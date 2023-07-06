@@ -1,6 +1,6 @@
-# BNB Chain - Web3 Security Framework
 
-### Decentralized Finance Practices Checklist
+
+# Decentralized Finance Practices Checklist
 
 Classification: **Restricted**
 

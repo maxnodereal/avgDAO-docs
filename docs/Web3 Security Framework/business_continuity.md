@@ -1,6 +1,7 @@
-# BNB Chain - Web3 Security Framework
+# Business Continuity Business Continuity
 
-### Business Continuity Best Practices Checklist
+##  BNB Chain - Web3 Security Framework for Business Continuity Best Practices Checklist
+
 
 Classification: **Restricted**
 

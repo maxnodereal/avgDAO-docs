@@ -1,6 +1,4 @@
-# BNB Chain - Web3 Security Framework
-
-### Crypto Wallet Security Checklist
+# Crypto Wallet Security Checklist
 
 Classification: **Restricted**
 

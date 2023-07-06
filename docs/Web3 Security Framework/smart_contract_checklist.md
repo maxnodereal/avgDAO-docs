@@ -1,6 +1,4 @@
-# BNB Chain - Web3 Security Framework
-
-### Smart Contract Security Checklist
+# Smart Contract Security Checklist
 
 Classification: **Restricted**
 

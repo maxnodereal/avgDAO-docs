@@ -1,6 +1,5 @@
-# BNB Chain - Web3 Security Framework
 
-### Project Management Best Practices Checklist
+# Project Management Best Practices Checklist
 
 Classification: **Restricted**
 

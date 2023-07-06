@@ -2,10 +2,9 @@
 sidebar_position: 1
 ---
 
+# Introduction
 
-# Securing the Future of Decentralized Finance: The Need for a Comprehensive Web3 Security Framework
-
-## Introduction
+## Securing the Future of Decentralized Finance: The Need for a Comprehensive Web3 Security Framework
 
 In 2022, the world of cryptocurrencies and decentralized finance (DeFi) reached a concerning milestone with $3.8 billion in stolen funds, of which $3.1 billion originated from the DeFi sector[1]. This alarming figure is equivalent to the total amount of funds hacked in the previous year, emphasizing the growing security challenges in the swiftly evolving digital landscape. Cryptocurrencies now play a crucial geostrategic and geopolitical role, as demonstrated by events such as the Lazarus Group's hack on Axie Infinity, international banking sanctions, and the emergence of Central Bank Digital Currencies (CBDCs) amidst a global de-dollarization trend.
 Given these developments, the potential role of crypto asset-based financial services in the future cannot be ignored. And we must assume the responsibility of building a secure ecosystem for future financial and monetary services and systems that interact with DeFi.
