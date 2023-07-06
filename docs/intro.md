@@ -1,47 +1,22 @@
----
-sidebar_position: 1
----
 
-# Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+# AvengerDAO Intro
 
-Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+AvengerDAO is a community driven initiative that protects users from possible exploits, scams and malicious actors on BNB Chain. The founding members of AvengerDAO started this because BNB Chain is the largest public chain today, and the larger the community, the greater the responsibility. Our goal is to protect users from financial losses and malicious contracts. Deter malicious actors and notify BNB Chain’s users. We aim to enhance further adoption by setting an industry standard for safe practices and raise awareness on safety and security in the ecosystem.
 
-### What you'll need
+## Web3 Security Framework
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Main products:
+At the moment, there are three proposed products in AvengerDAO, they are Meter, Watch and Vault.
 
-## Generate a new site
+## Meter
+Meter rates smart contracts, domains and addresses. Alerts show when users interact with flagged dApps.
 
-Generate a new Docusaurus site using the **classic template**.
+## Watch
+Watch warns subscribers in real time when security exploits are happening.
 
-The classic template will automatically be added to your project after you run the command:
+## Vault
+Vault helps increase the likelihood that funds may be recovered if lost.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
