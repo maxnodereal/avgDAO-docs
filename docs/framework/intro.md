@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+
 # Securing the Future of Decentralized Finance: The Need for a Comprehensive Web3 Security Framework
 
 ## Introduction
