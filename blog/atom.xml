@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://maxnodereal.github.io/blog</id>
+    <title>AvemgerDAO Doc Site Blog</title>
+    <updated>2023-07-06T05:11:33.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://maxnodereal.github.io/blog"/>
+    <subtitle>AvemgerDAO Doc Site Blog</subtitle>
+    <icon>https://maxnodereal.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AvengerDAO June 26th Weekly Report]]></title>
+        <id>https://maxnodereal.github.io/blog/riskreport-20230619</id>
+        <link href="https://maxnodereal.github.io/blog/riskreport-20230619"/>
+        <updated>2023-07-06T05:11:33.000Z</updated>
+    </entry>
+</feed>
