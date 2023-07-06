@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>AvemgerDAO Doc Site Blog</title>
-        <link>https://maxnodereal.github.io/blog</link>
+        <link>https://maxnodereal.github.io/avgDAO-docs/blog</link>
         <description>AvemgerDAO Doc Site Blog</description>
         <lastBuildDate>Thu, 06 Jul 2023 05:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[AvengerDAO June 26th Weekly Report]]></title>
-            <link>https://maxnodereal.github.io/blog/riskreport-20230619</link>
-            <guid>https://maxnodereal.github.io/blog/riskreport-20230619</guid>
+            <link>https://maxnodereal.github.io/avgDAO-docs/blog/riskreport-20230619</link>
+            <guid>https://maxnodereal.github.io/avgDAO-docs/blog/riskreport-20230619</guid>
             <pubDate>Thu, 06 Jul 2023 05:11:33 GMT</pubDate>
         </item>
     </channel>
