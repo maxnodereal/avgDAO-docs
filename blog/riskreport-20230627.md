@@ -1,5 +1,7 @@
 # AvengerDAO Weekly Report (June 27th - July 4th)
 
+![](../static/img/blog_cover.png)
+
 [AvengerDAO](https://www.bnbchain.org/en/blog/introducing-avengerdao-the-security-initiative-protecting-users-from-malicious-actors/?ref=binance.ghost.io) is a community driven initiative created to protect the users and projects on BNB Chain from malicious actors and activity.  [AvengerDAO](https://www.bnbchain.org/en/blog/introducing-avengerdao-the-security-initiative-protecting-users-from-malicious-actors/?ref=binance.ghost.io) publishes a list of risk projects and addresses on [DappBay Red Alarm](https://dappbay.bnbchain.org/red-alarm?ref=binance.ghost.io) every Friday. Any items that fall into one or more of the following categories are listed:
 
 1. Ponzi Scam: Any item associated with a Ponzi scheme or fraudulent activity that deceives users.
