@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5776],{7778:e=>{e.exports=JSON.parse('{"title":"AvengerDAO FAQ","slug":"/category/faq","permalink":"/avgDAO-docs/docs/category/faq","navigation":{"previous":{"title":"Specification","permalink":"/avgDAO-docs/docs/watch/specification"},"next":{"title":"FAQ","permalink":"/avgDAO-docs/docs/faq/"}}}')}}]);
