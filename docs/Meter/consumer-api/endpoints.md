@@ -1,4 +1,5 @@
 ---
+title: Endpoints
 sidebar_position: 2
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Changelog
 sidebar_position: 4
 ---
 # Producer Change Log

@@ -1,10 +1,11 @@
 ---
+title: Integration Guide
 sidebar_position: 3
 ---
 
 # AvengerDAO Meter Integration Guide for Security Providers
 
-Welcome to the AvengerDAO Meter integration guide for security providers. This guide is designed to help you understand the process of integrating your security service with the AvengerDAO Meter API. Please read the following instructions carefully and ensure that your service meets the prerequisites before proceeding with the [integration](./endpoints.md).
+Welcome to the AvengerDAO Meter integration guide for security providers. This guide is designed to help you understand the process of integrating your security service with the AvengerDAO Meter API. Please read the following instructions carefully and ensure that your service meets the prerequisites before proceeding with the [integration](endpoints.md).
 
 ### Prerequisites
 
@@ -42,7 +43,7 @@ Welcome to the AvengerDAO Meter integration guide for security providers. This g
 
 - Step 2: Implement the Required Functionality
 
-  Update your service to provide the necessary data in the expected format, including trust scores, risk factors, and support for asynchronous responses when data is not available for a given address. Ensure that your API follows the authentication mechanism specified in the AvengerDAO Meter API [documentation](../Cunsumer%20API/authorization.mdx).
+  Update your service to provide the necessary data in the expected format, including trust scores, risk factors, and support for asynchronous responses when data is not available for a given address. Ensure that your API follows the authentication mechanism specified in the AvengerDAO Meter API [documentation](../cunsumer-api/authorization.md).
 
 - Step 3: Testing and Feedback
 

@@ -1,4 +1,5 @@
 ---
+title: Authorization
 sidebar_position: 1
 ---
 
