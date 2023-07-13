@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://maxnodereal.github.io/avgDAO-docs/blog"/>
     <subtitle>AvengerDAO Doc Site Blog</subtitle>
-    <icon>https://maxnodereal.github.io/avgDAO-docs/img/favicon.ico</icon>
+    <icon>https://maxnodereal.github.io/avgDAO-docs/img/logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[AvengerDAO Weekly Report (June 27th - July 4th)]]></title>
         <id>https://maxnodereal.github.io/avgDAO-docs/blog/riskreport-20230627</id>
