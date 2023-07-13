@@ -43,7 +43,7 @@ Welcome to the AvengerDAO Meter integration guide for security providers. This g
 
 - Step 2: Implement the Required Functionality
 
-  Update your service to provide the necessary data in the expected format, including trust scores, risk factors, and support for asynchronous responses when data is not available for a given address. Ensure that your API follows the authentication mechanism specified in the AvengerDAO Meter API [documentation](../cunsumer-api/authorization.md).
+  Update your service to provide the necessary data in the expected format, including trust scores, risk factors, and support for asynchronous responses when data is not available for a given address. Ensure that your API follows the authentication mechanism specified in the AvengerDAO Meter API [documentation](../consumer-api/authorization.md).
 
 - Step 3: Testing and Feedback
 
